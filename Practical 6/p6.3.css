@@ -1,0 +1,27 @@
+img {
+    opacity: calc(0.5);
+    width: 150;
+}
+img:hover {
+    opacity: calc(1);
+    transform: scale(1.2);
+    transition: 15 ease;
+}
+h1 {
+    text-align:center ;
+}
+.gallery {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    gap: 40px;
+}
+.cap {
+    opacity: calc(0);
+    position: absolute;
+    top: 167px;
+    color: black;
+}
+.image hover .cap {
+    opacity: calc(1);
+}
