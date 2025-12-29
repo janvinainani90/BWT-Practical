@@ -1,0 +1,59 @@
+ body {
+            font-family: Arial, sans-serif;
+            background: #f7f7f7;
+        }
+
+        .container {
+            width: 90%;
+            margin: auto;
+            border: 3px solid green;
+            padding: 10px;
+            background: #ffecec;
+        }
+
+        .title {
+            text-align: center;
+            font-size: 22px;
+            padding: 5px;
+            border: 2px solid red;
+            margin-bottom: 20px;
+        }
+
+        .menu-section {
+            display: flex;
+        }
+
+        .left {
+            width: 60%;
+            padding: 10px;
+        }
+
+        .right img {
+            width: 100%;
+            border-radius: 5px;
+        }
+
+        .section-title {
+            font-weight: bold;
+            font-size: 18px;
+            color: purple;
+            text-decoration: underline;
+            border: 2px solid blue;
+            padding-left: 5px;
+            margin-top: 20px;
+        }
+
+        .item {
+            margin: 10px 0;
+        }
+
+        .item-name {
+            font-weight: bold;
+            color: green;
+        }
+
+        .item-desc {
+            font-size: 14px;
+            color: #c21c1c;
+            margin-left: 15px;
+        }
