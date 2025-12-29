@@ -1,0 +1,23 @@
+div{
+    margin: 30px;
+    width: fit-content;
+}
+.one{
+    list-style-image: url('wrench.png');
+background-color:blue;
+list-style-position: inside;    
+}
+.one li{
+    background-color:orange;
+font-size:24px;
+}
+.two {
+    background-color:orange;
+font-size:24px;
+}
+#list-style-inside {
+    list-style-position: inside;
+}
+#list-style-outside {
+    list-style-position: outside;  
+}
