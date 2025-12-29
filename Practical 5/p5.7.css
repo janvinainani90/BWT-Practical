@@ -1,0 +1,109 @@
+.od {text-decoration: overline;  text-decoration-color: red;}
+.lt {text-decoration:line-through;  text-decoration-color: blue;}
+.ud {text-decoration: underline;  text-decoration-color:green;}
+.ou {text-decoration: overline underline; text-decoration-color: purple;}
+.aa {
+    color: red;
+    text-align: center;
+}
+.bb {
+    color: green;
+    text-align: center;
+}
+.cc {
+    text-decoration: double underline;
+    text-align: center;
+}
+.dd {
+     text-decoration: dashed line-through;
+    text-align: center;
+}
+.ee {
+     text-decoration: dotted overline;
+    text-align: center;
+}
+.ff {
+     text-decoration:wavy underline overline line-through;
+     text-decoration-color: #ff9999;
+     color: #1067bd;
+    text-align: center;
+}
+.hh {
+   text-decoration:underline 7px;
+}
+.ii {
+    text-decoration :underline 77%;
+}
+.jj {
+    text-decoration:underline auto;  
+}
+#ee {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#aa {
+    text-decoration:underline;
+    text-decoration-color:#ff0000 ;
+}
+#bb {
+    text-decoration:underline ;
+    text-decoration-color: rgb(23, 250, 48);;
+}
+#cc {
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+#dd {
+    text-decoration:underline ;
+    text-decoration-color: hsl(300, 100%,80%);
+}
+.kk {
+    text-transform: capitalize;
+    color: white;
+}
+.ll {
+    text-transform: uppercase;
+    color: white;
+}
+.mm {
+    text-transform: lowercase;
+    color: white;
+}
+.nn {
+    color: white;
+}
+.oo {
+    color: white;
+}
+#janvi {text-align: center;}
+.pp {
+    letter-spacing: 2px;
+}
+.qq{
+    word-spacing: 10px;
+}
+.rr {line-height: 0.8;}
+.ka {line-height: 150%;}
+.na {line-height: 1.5em;}
+.ss {text-indent: 50px; }
+.tt {color: white;  text-shadow: 2px 2px 4px #000000; }
+.uu { color: red;  text-shadow: 2px 2px; }
+.vv {
+color: green;
+text-shadow: 2px 2px 4px #000000;
+}
+.ww {
+text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}
+.xx {
+color: white;
+text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px
+darkblue; }
+
+div{
+    margin: 30px;
+    width: fit-content;
+}
+ol li { background: #ffe5e5; color: darkred; padding: 5px; margin-left: 35px; }
+ul li { background: #cce5ff; color: darkblue; margin: 5px; }
+ol { background: #ff9999; padding: 20px; }
+ul { background: #3399ff; padding: 20px; }  
